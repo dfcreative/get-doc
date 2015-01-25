@@ -4,4 +4,4 @@
 
 var hasDom = require('has-dom');
 
-if (hasDom()) module.exports = document;
+module.exports = hasDom() ? document : null;
