@@ -1,6 +1,6 @@
 {
   "name": "get-doc",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Get document, if there’s DOM.",
   "main": "index.js",
   "scripts": {
